@@ -11,9 +11,11 @@
             "id": "6ce39e3758efa6ef",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Réseaux/Pasted image 20240129144049.png"
+                "file": "Réseaux/Switch/QoS.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Réseaux/Pasted image 20240129144049.png",
+                "file": "Réseaux/Switch/QoS.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Réseaux/Pasted image 20240129144049.png",
+                "file": "Réseaux/Switch/QoS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Réseaux/Pasted image 20240129144049.png"
+                "file": "Réseaux/Switch/QoS.md"
               }
             }
           }
@@ -148,6 +150,7 @@
   "lastOpenFiles": [
     "Réseaux/Routeur/NAT.md",
     "Réseaux/Routeur/ACL.md",
+    "Réseaux/Pasted image 20240129144049.png",
     "Réseaux/ipv6/SLAAC et ICMPV6.md",
     "Réseaux/ob_d153ed_nat1.png",
     "Réseaux/Switch/QoS.md",
