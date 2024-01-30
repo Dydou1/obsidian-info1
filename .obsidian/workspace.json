@@ -1,0 +1,163 @@
+{
+  "main": {
+    "id": "cbe3169127681e14",
+    "type": "split",
+    "children": [
+      {
+        "id": "b55a5998b1466bc8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6ce39e3758efa6ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Réseaux/Routeur/NAT.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1ca5d23641a0a993",
+    "type": "split",
+    "children": [
+      {
+        "id": "0f63cf983ab42cc0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bc8ae8bd12cd94f1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "74df5745337b18f7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a38d25d3bf000776",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b975b818818267b6",
+    "type": "split",
+    "children": [
+      {
+        "id": "744133d82705655c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "37e6aa01ee27f25d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Réseaux/Routeur/NAT.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "45652d55be0b16f2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Réseaux/Routeur/NAT.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "1abaaba2e2c6259b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d8fe45618f6e88f3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Réseaux/Routeur/NAT.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "45652d55be0b16f2",
+  "lastOpenFiles": [
+    "Réseaux/Routeur/ACL.md",
+    "Réseaux/Routeur/NAT.md",
+    "Réseaux/ipv6/SLAAC et ICMPV6.md",
+    "Réseaux/ob_d153ed_nat1.png",
+    "Réseaux/Switch/QoS.md",
+    "Réseaux/Switch/SSH.md",
+    "Pasted image 20240130141042.png",
+    "Pasted image 20240130132519.png",
+    "Pasted image 20240130132504.png",
+    "Pasted image 20240130132150.png",
+    "Untitled"
+  ]
+}
