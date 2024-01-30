@@ -11,11 +11,9 @@
             "id": "6ce39e3758efa6ef",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Réseaux/Routeur/NAT.md",
-                "mode": "source",
-                "source": false
+                "file": "Réseaux/Pasted image 20240129144049.png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Réseaux/Routeur/NAT.md",
+                "file": "Réseaux/Pasted image 20240129144049.png",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Réseaux/Routeur/NAT.md",
+                "file": "Réseaux/Pasted image 20240129144049.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Réseaux/Routeur/NAT.md"
+                "file": "Réseaux/Pasted image 20240129144049.png"
               }
             }
           }
@@ -146,10 +144,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "45652d55be0b16f2",
+  "active": "6ce39e3758efa6ef",
   "lastOpenFiles": [
-    "Réseaux/Routeur/ACL.md",
     "Réseaux/Routeur/NAT.md",
+    "Réseaux/Routeur/ACL.md",
     "Réseaux/ipv6/SLAAC et ICMPV6.md",
     "Réseaux/ob_d153ed_nat1.png",
     "Réseaux/Switch/QoS.md",
